@@ -2,6 +2,8 @@
 
 > 테스트용 json 서버입니다 :p
 
+- json-server --watch db.json --port 8000
+
 ## 필요한 데이터 정리
 
 ### 유저 | user
