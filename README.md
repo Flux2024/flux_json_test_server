@@ -13,6 +13,7 @@
 - 이메일 : user_mail
 - 성별 : user_gender
 - 생일 : user_birth
+- 권한 : user_role
 - 소셜로그인토큰 : user_token
 
 ### 마켓 | market
