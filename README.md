@@ -20,6 +20,7 @@
 
 - 판매 ID : market_id
 - 유저 ID : user_id
+- 상품 이름 : market_name
 - 상품 사진 : market_imgs
 - 최초 가격 : market_price
 - 즉시구매가격 : market_maxprice
