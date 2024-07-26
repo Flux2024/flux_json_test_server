@@ -24,6 +24,7 @@
 - 상품 사진 : market_imgs
 - 최초 가격 : market_price
 - 즉시구매가격 : market_maxprice
+- 상품 카테고리 : market_category
 - 상품 설명 : market_contents
 - 상품 판매상태 : market_orderablestatus
 - 상품 등록일자 : market_createat
