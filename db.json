@@ -430,8 +430,267 @@
       }
     ]
   ],
-  "comment": [],
-  "wishlist": [],
+  "comment": [
+    [
+      {
+          "comment_id": "1",
+          "user_id": "1",
+          "article_id": "1",
+          "comment_contents": "정말 유익한 글이네요! 감사합니다.",
+          "comment_createat": "2024-07-27T10:15:30Z",
+          "comment_updateat": "2024-07-27T10:20:30Z"
+      },
+      {
+          "comment_id": "2",
+          "user_id": "2",
+          "article_id": "2",
+          "comment_contents": "가죽 가방 만드는 법 잘 배웠어요.",
+          "comment_createat": "2024-07-27T11:25:40Z",
+          "comment_updateat": "2024-07-27T11:30:40Z"
+      },
+      {
+          "comment_id": "3",
+          "user_id": "3",
+          "article_id": "3",
+          "comment_contents": "비누 만드는 게 정말 재미있어 보여요!",
+          "comment_createat": "2024-07-27T12:35:50Z",
+          "comment_updateat": "2024-07-27T12:40:50Z"
+      },
+      {
+          "comment_id": "4",
+          "user_id": "4",
+          "article_id": "4",
+          "comment_contents": "수제 초콜릿 만들기, 꼭 시도해볼게요.",
+          "comment_createat": "2024-07-27T13:45:50Z",
+          "comment_updateat": "2024-07-27T13:50:50Z"
+      },
+      {
+          "comment_id": "5",
+          "user_id": "5",
+          "article_id": "5",
+          "comment_contents": "목공예에 관심이 많았는데 좋은 정보 감사합니다.",
+          "comment_createat": "2024-07-27T14:55:50Z",
+          "comment_updateat": "2024-07-27T15:00:50Z"
+      },
+      {
+          "comment_id": "6",
+          "user_id": "6",
+          "article_id": "6",
+          "comment_contents": "손뜨개질 기초, 정말 유용한 정보네요.",
+          "comment_createat": "2024-07-27T15:10:50Z",
+          "comment_updateat": "2024-07-27T15:15:50Z"
+      },
+      {
+          "comment_id": "7",
+          "user_id": "7",
+          "article_id": "7",
+          "comment_contents": "홈 가드닝 팁, 잘 배웠습니다.",
+          "comment_createat": "2024-07-27T15:20:50Z",
+          "comment_updateat": "2024-07-27T15:25:50Z"
+      },
+      {
+          "comment_id": "8",
+          "user_id": "8",
+          "article_id": "8",
+          "comment_contents": "간단한 요리 레시피, 정말 좋네요!",
+          "comment_createat": "2024-07-27T15:30:50Z",
+          "comment_updateat": "2024-07-27T15:35:50Z"
+      },
+      {
+          "comment_id": "9",
+          "user_id": "9",
+          "article_id": "1",
+          "comment_contents": "신발 사기 글 잘 읽었습니다.",
+          "comment_createat": "2024-07-27T15:40:50Z",
+          "comment_updateat": "2024-07-27T15:45:50Z"
+      },
+      {
+          "comment_id": "10",
+          "user_id": "10",
+          "article_id": "2",
+          "comment_contents": "가죽 가방 장인 글 유익했어요.",
+          "comment_createat": "2024-07-27T15:50:50Z",
+          "comment_updateat": "2024-07-27T15:55:50Z"
+      },
+      {
+          "comment_id": "11",
+          "user_id": "11",
+          "article_id": "3",
+          "comment_contents": "수제 비누 장인 글 재미있게 읽었습니다.",
+          "comment_createat": "2024-07-27T16:00:50Z",
+          "comment_updateat": "2024-07-27T16:05:50Z"
+      },
+      {
+          "comment_id": "12",
+          "user_id": "12",
+          "article_id": "4",
+          "comment_contents": "수제 초콜릿 만들기 꼭 해보고 싶네요.",
+          "comment_createat": "2024-07-27T16:10:50Z",
+          "comment_updateat": "2024-07-27T16:15:50Z"
+      },
+      {
+          "comment_id": "13",
+          "user_id": "13",
+          "article_id": "5",
+          "comment_contents": "DIY 목공예 글 잘 읽었어요.",
+          "comment_createat": "2024-07-27T16:20:50Z",
+          "comment_updateat": "2024-07-27T16:25:50Z"
+      },
+      {
+          "comment_id": "14",
+          "user_id": "14",
+          "article_id": "6",
+          "comment_contents": "손뜨개질 기초 설명이 정말 좋네요.",
+          "comment_createat": "2024-07-27T16:30:50Z",
+          "comment_updateat": "2024-07-27T16:35:50Z"
+      },
+      {
+          "comment_id": "15",
+          "user_id": "15",
+          "article_id": "7",
+          "comment_contents": "홈 가드닝 팁 정말 유용했습니다.",
+          "comment_createat": "2024-07-27T16:40:50Z",
+          "comment_updateat": "2024-07-27T16:45:50Z"
+      }
+  ]
+],
+  "wishlist": [
+    [
+      {
+          "wish_id": "1",
+          "user_id": "1",
+          "market_id": "1",
+          "wish_createat": "2024-07-27T10:15:30Z"
+      },
+      {
+          "wish_id": "2",
+          "user_id": "2",
+          "market_id": "2",
+          "wish_createat": "2024-07-27T11:25:40Z"
+      },
+      {
+          "wish_id": "3",
+          "user_id": "3",
+          "market_id": "3",
+          "wish_createat": "2024-07-27T12:35:50Z"
+      },
+      {
+          "wish_id": "4",
+          "user_id": "4",
+          "market_id": "4",
+          "wish_createat": "2024-07-27T13:45:50Z"
+      },
+      {
+          "wish_id": "5",
+          "user_id": "5",
+          "market_id": "5",
+          "wish_createat": "2024-07-27T14:55:50Z"
+      },
+      {
+          "wish_id": "6",
+          "user_id": "6",
+          "market_id": "6",
+          "wish_createat": "2024-07-27T15:10:50Z"
+      },
+      {
+          "wish_id": "7",
+          "user_id": "7",
+          "market_id": "7",
+          "wish_createat": "2024-07-27T15:20:50Z"
+      },
+      {
+          "wish_id": "8",
+          "user_id": "8",
+          "market_id": "8",
+          "wish_createat": "2024-07-27T15:30:50Z"
+      },
+      {
+          "wish_id": "9",
+          "user_id": "9",
+          "market_id": "9",
+          "wish_createat": "2024-07-27T15:40:50Z"
+      },
+      {
+          "wish_id": "10",
+          "user_id": "10",
+          "market_id": "10",
+          "wish_createat": "2024-07-27T15:50:50Z"
+      }
+  ]
+],
   "report": [],
-  "notification": []
+  "notification": [
+    [
+      {
+          "noti_id": "1",
+          "user_id": "1",
+          "noti_contents": "시스템 점검 안내: 2024년 7월 30일 오전 2시부터 4시까지.",
+          "noti_createat": "2024-07-25T10:15:30Z",
+          "noti_updateat": "2024-07-25T10:15:30Z"
+      },
+      {
+          "noti_id": "2",
+          "user_id": "1",
+          "noti_contents": "새로운 기능 추가: 이제 다크 모드를 사용할 수 있습니다.",
+          "noti_createat": "2024-07-26T11:25:40Z",
+          "noti_updateat": "2024-07-26T11:25:40Z"
+      },
+      {
+          "noti_id": "3",
+          "user_id": "1",
+          "noti_contents": "회원 가입 이벤트: 가입하면 포인트를 드립니다.",
+          "noti_createat": "2024-07-27T12:35:50Z",
+          "noti_updateat": "2024-07-27T12:35:50Z"
+      },
+      {
+          "noti_id": "4",
+          "user_id": "1",
+          "noti_contents": "서비스 이용 약관이 변경되었습니다. 변경된 약관을 확인해주세요.",
+          "noti_createat": "2024-07-28T13:45:50Z",
+          "noti_updateat": "2024-07-28T13:45:50Z"
+      },
+      {
+          "noti_id": "5",
+          "user_id": "1",
+          "noti_contents": "긴급 공지: 현재 시스템 장애로 인해 일부 기능이 제한되고 있습니다.",
+          "noti_createat": "2024-07-29T14:55:50Z",
+          "noti_updateat": "2024-07-29T14:55:50Z"
+      },
+      {
+          "noti_id": "6",
+          "user_id": "1",
+          "noti_contents": "정기 점검 안내: 2024년 8월 1일 오전 1시부터 3시까지.",
+          "noti_createat": "2024-07-30T15:10:50Z",
+          "noti_updateat": "2024-07-30T15:10:50Z"
+      },
+      {
+          "noti_id": "7",
+          "user_id": "1",
+          "noti_contents": "신규 업데이트 알림: 프로필 커스터마이징 기능이 추가되었습니다.",
+          "noti_createat": "2024-07-31T16:20:50Z",
+          "noti_updateat": "2024-07-31T16:20:50Z"
+      },
+      {
+          "noti_id": "8",
+          "user_id": "1",
+          "noti_contents": "보안 강화: 비밀번호 정책이 강화되었습니다. 변경된 규정을 확인해주세요.",
+          "noti_createat": "2024-08-01T17:30:50Z",
+          "noti_updateat": "2024-08-01T17:30:50Z"
+      },
+      {
+          "noti_id": "9",
+          "user_id": "1",
+          "noti_contents": "고객센터 운영 시간 변경: 평일 오전 9시부터 오후 6시까지 운영됩니다.",
+          "noti_createat": "2024-08-02T18:40:50Z",
+          "noti_updateat": "2024-08-02T18:40:50Z"
+      },
+      {
+          "noti_id": "10",
+          "user_id": "1",
+          "noti_contents": "이용자 의견 수렴: 더 나은 서비스를 위해 의견을 보내주세요.",
+          "noti_createat": "2024-08-03T19:50:50Z",
+          "noti_updateat": "2024-08-03T19:50:50Z"
+      }
+  ]  
+]
 }
