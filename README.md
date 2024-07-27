@@ -38,6 +38,7 @@
 - 아티클 ID : article_id
 - 유저 ID : user_id
 - 아티클 사진 : article_imgs
+- 아티클 제목 : article_title
 - 아티클 컨텐츠 : article_contents
 - 아티클 등록일자 : article_createat
 - 아티클 수정일자 : article_updateat
