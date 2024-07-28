@@ -2,7 +2,7 @@
 
 > 테스트용 json 서버입니다 :p
 
-- json-server --watch db.json --port 8000
+npm istall -> npm start | server-port : 8001
 
 ## 필요한 데이터 정리
 
